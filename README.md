@@ -1,2 +1,1 @@
-# www.stelasuils
-Website
+https://stelita.github.io/stelasuils/
